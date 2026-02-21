@@ -1,4 +1,4 @@
-# initilization_stratigies_in_structural_topology_optomization
+# Initilization_stratigies_in_structural_topology_optomization
 Topology optomization helps engineers to design light weight robust structure. the main aim is to measure and compare the impact of different strategies in structural topology optimization, in particular pareto front solutions. The impact of different initialization on solution quality , structural &amp; convergence behavior of optimized structures.
 *Top88 effective & effecient Matlab code structural topology optomization developed by Andreson(2011), orginally implements single uniform (conventional) strategy.
 Implementation of 5 different stragigies in the top88 (hybrid initilization / multi-start).Firstly implemented for baseline study of fixed 0.5 volfrac and then extended to multi-volfrac study.
