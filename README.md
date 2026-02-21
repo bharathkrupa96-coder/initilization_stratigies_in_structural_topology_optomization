@@ -1,0 +1,2 @@
+# initilization_stratigies_in_structural_topology_optomization
+Topology optomization helps engineers to design light weight robust structure. the main aim is to measure and compare the impact of different strategies in structural topology optimization, in particular pareto front solutions. The impact of different initialization on solution quality , structural &amp; convergence behavior of optimized structures.
